@@ -132,3 +132,56 @@ For business enquiries, product details and supply enquiries, contact ICON AGRIT
 
 </div>
 
+<div align="center">
+
+<img src="./assets/company-banner.jpeg" width="100%"/>
+
+<br/>
+
+<img src="./assets/icon-logo.jpeg" width="190"/>
+
+# 🌱 ICON AGRITECH
+
+### BIOFERTILIZER & AGROCHEMICALS
+
+**MANUFACTURER & SUPPLIER**
+
+🌿 Quality Products | Agricultural Innovation | Farmer Support
+
+</div>
+
+---
+
+## 🏭 OUR PRODUCTS
+
+<div align="center">
+
+<img src="./assets/product-gallery.jpeg" width="100%"/>
+
+### Our Agricultural Product Range
+
+**Biofertilizers | Agrochemicals | Biostimulants**
+
+</div>
+
+## 📍 COMPANY DETAILS
+
+- Company: ICON AGRITECH
+- Business: Manufacturer & Supplier
+- Location: Maharashtra, India
+- Contact: +91 8600354526
+
+## 📞 CONTACT US
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Us-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/918600354526)
+
+[![Call](https://img.shields.io/badge/Call-8600354526-15803D?style=for-the-badge&logo=phone)](tel:+918600354526)
+
+### 🌾 ICON AGRITECH
+**GROW GREEN. GROW TOGETHER.**
+
+</div>
+
+
